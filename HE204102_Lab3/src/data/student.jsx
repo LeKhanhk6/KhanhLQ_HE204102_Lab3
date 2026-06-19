@@ -7,7 +7,7 @@
   },
   {
     id: 1781282772883,
-    name: "John Smith",
+    name: "Quoc Khanh",
     age: 21,
     major: "Marketing",
   },
