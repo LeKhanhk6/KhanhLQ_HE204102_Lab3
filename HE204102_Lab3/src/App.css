@@ -83,21 +83,3 @@ table th {
 h3 {
   margin-top: 20px;
 }
-
-@media (max-width: 768px) {
-  .form-row,
-  .filter-row {
-    flex-direction: column;
-  }
-
-  input,
-  select,
-  button {
-    width: 100%;
-  }
-
-  table {
-    display: block;
-    overflow-x: auto;
-  }
-}
